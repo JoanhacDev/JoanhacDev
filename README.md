@@ -1,10 +1,16 @@
-![Gif](https://tenor.com/bSFM8.gif)
+<p align="center"> <img src="/tenor.gif" width="300px"/> </p>
 
-# Hola👋. Soy Joan Ibica.
+# SOBRE MI
+
+**Hola👋. Soy Joan Ibica.**
+
 Tengo 16 años de edad y Actualmente soy estudiante de técnico de programación de software en la institución SENA.
 
-Me encanta el café☕. 
+Me encanta el café☕ y las palomas🕊️ . Estoy en constante aprendizaje📘. Me interesa mucho el desarrollo web💻.
+Actualmente me encuentro aprendiendo Tailwind📝
 
+
+### 🧰**Habilidades:** HTML / CSS / JS / Figma
 
 
 <!--
