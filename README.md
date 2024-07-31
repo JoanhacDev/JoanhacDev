@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hola👋. Soy Joan Ibica.
+Tengo 16 años de edad y Actualmente soy estudiante de técnico de programación de software en la institución SENA.
+
+Me encanta el café☕. 
+
+
 
 <!--
 **DevJoanhac/DevJoanhac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
