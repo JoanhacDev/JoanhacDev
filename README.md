@@ -10,7 +10,7 @@ Me encanta el café☕ y las palomas🕊️ . Estoy en constante aprendizaje📘
 Actualmente me encuentro aprendiendo Tailwind📝
 
 
-### 🧰**Habilidades:** HTML / CSS / JS / Figma
+### 🧰**Habilidades:** HTML / CSS / Figma
 
 
 <!--
