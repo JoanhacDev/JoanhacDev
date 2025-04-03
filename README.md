@@ -4,10 +4,10 @@
 
 **Hola👋. Soy Joan Ibica.**
 
-Tengo 17 años de edad y Actualmente soy estudiante de técnico de programación de software en la institución SENA.
+Tengo 17 años de edad y soy técnico en programación de software.
 
-Me encanta el café ☕ y las aves 🐦 . Estoy en constante aprendizaje📘. Me interesa mucho el desarrollo web💻.
-Actualmente me encuentro aprendiendo Tailwind y Astro📝
+Me encanta el café ☕ y las aves 🐦. Estoy en constante aprendizaje📘. Me interesa mucho el desarrollo web💻.
+Actualmente me encuentro aprendiendo JavaScript para el DOOM.
 
 
 ### 🧰**Habilidades:** HTML / CSS / FIGMA 
