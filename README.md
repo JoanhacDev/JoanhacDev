@@ -1,4 +1,4 @@
-<!--<p align="center"> <img src="/tenor.gif" width="300px"/> </p>-->
+<p align="center"> <img src="/anime.gif" width="300px"/> </p>
 
 # SOBRE MI
 
